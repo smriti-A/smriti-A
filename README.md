@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Smriti Kaushik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Electronics+and+Communication+Student;Python+Learner;Problem+Solver+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Electrical+Electronics+Engineering+Student;Python+Learner;Problem+Solver+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 <img align="right" alt="Coding GIF" width="300"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 B.Tech ECE Student  
+- 🎓 B.Tech EEE Student  
 - 📊 Passionate about Data Analytics & Insights  
 - 🐍 Learning Python, SQL, Excel  
 - 📈 Exploring Data Visualization & Real-world Projects  
